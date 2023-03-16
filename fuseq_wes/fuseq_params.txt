@@ -1,0 +1,16 @@
+readStrands="ALL"
+chromRef=c("chr1","chr10","chr11","chr12","chr13","chr14","chr15","chr16","chr17","chr18","chr19","chr2","chr20","chr21","chr22","chr3","chr4","chr5","chr6","chr7","chr8","chr9","chrX","chrY")
+onlyProteinCodingGenes=TRUE
+maxSharedCount=5e-2
+minGeneDist=5e4
+minJunctionDist=5e4
+maxInvertedFusionCount=0
+maxMRfusionFc=2
+maxMRfusionNum=2
+sgtMRcount=10
+minMR=10
+minNonDupMR=10
+minSR=10
+minScore=3
+keepRData=FALSE
+exportFasta=FALSE

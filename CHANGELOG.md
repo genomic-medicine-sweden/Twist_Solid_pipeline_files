@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.1.1](https://www.github.com/genomic-medicine-sweden/Twist_Solid_pipeline_files/compare/v0.1.0...v0.1.1) (2023-06-08)
+
+
+### Bug Fixes
+
+* add missing tbi file ([c6b635b](https://www.github.com/genomic-medicine-sweden/Twist_Solid_pipeline_files/commit/c6b635b4f6444887c4cfdb5ef1516d4665606947))
+
 ## 0.1.0 (2023-05-25)
 
 

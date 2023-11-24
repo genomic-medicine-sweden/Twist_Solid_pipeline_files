@@ -1,5 +1,25 @@
 # Changelog
 
+## [0.2.0](https://www.github.com/genomic-medicine-sweden/Twist_Solid_pipeline_files/compare/v0.1.1...v0.2.0) (2023-11-24)
+
+
+### Features
+
+* added file for fuseq_wes fp fusion filtering ([be97caf](https://www.github.com/genomic-medicine-sweden/Twist_Solid_pipeline_files/commit/be97cafa2bb4e0569ff68dc16eda164e11b42eaf))
+* added tmb filter file needed for v0.8.0 of the pipeline ([e4a2a1d](https://www.github.com/genomic-medicine-sweden/Twist_Solid_pipeline_files/commit/e4a2a1d92ef6cd46d92064defe67d14f1b74552e))
+* file for rna fusionreport filtering ([2ced1c8](https://www.github.com/genomic-medicine-sweden/Twist_Solid_pipeline_files/commit/2ced1c8bb2c4a5edcdc34fe3ea9289733f21dece))
+* new hotspot file with two additional TERT mutations ([36bfd78](https://www.github.com/genomic-medicine-sweden/Twist_Solid_pipeline_files/commit/36bfd78dd0f7d1153d3d1923f3e082d7857eeb57))
+
+
+### Bug Fixes
+
+* rm duplicate entry ([1575590](https://www.github.com/genomic-medicine-sweden/Twist_Solid_pipeline_files/commit/15755901d6766f626b836d4ce3021da5c287a81d))
+
+
+### Documentation
+
+* add header to filter file ([3e84240](https://www.github.com/genomic-medicine-sweden/Twist_Solid_pipeline_files/commit/3e84240813165c91c6f00d0c876e4bb4a4c859bd))
+
 ### [0.1.1](https://www.github.com/genomic-medicine-sweden/Twist_Solid_pipeline_files/compare/v0.1.0...v0.1.1) (2023-06-08)
 
 

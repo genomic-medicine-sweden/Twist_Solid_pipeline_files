@@ -3,7 +3,6 @@ GAPDH	housekeeping	20	20
 GUSB	housekeeping	20	20
 OAZ1	housekeeping	20	20
 POLR2A	housekeeping	20	20
-MAML2	FRMPD3	20	20
 MAML2	NCOA6	20	20
 MAML2	ATXN3	20	20
 MAML2	SRP14	20	20

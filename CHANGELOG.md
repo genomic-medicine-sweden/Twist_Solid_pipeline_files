@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.4.1](https://www.github.com/genomic-medicine-sweden/Twist_Solid_pipeline_files/compare/v0.4.0...v0.4.1) (2023-11-29)
+
+
+### Bug Fixes
+
+* added correct rna design interval file ([98adcb6](https://www.github.com/genomic-medicine-sweden/Twist_Solid_pipeline_files/commit/98adcb627d693ad50f8d9e64348b81b59a16ec4c))
+
 ## [0.4.0](https://www.github.com/genomic-medicine-sweden/Twist_Solid_pipeline_files/compare/v0.1.1...v0.4.0) (2023-11-24)
 
 

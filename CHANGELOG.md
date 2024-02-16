@@ -1,5 +1,23 @@
 # Changelog
 
+## [0.5.0](https://www.github.com/genomic-medicine-sweden/Twist_Solid_pipeline_files/compare/v0.4.1...v0.5.0) (2024-02-16)
+
+
+### Features
+
+* add missing Twist_RNA_Design5.annotated.hg38.interval_list ([cadaa0c](https://www.github.com/genomic-medicine-sweden/Twist_Solid_pipeline_files/commit/cadaa0cccc63a1da46e707989bdf657e09ed2b10))
+* add purecn interval file ([8701129](https://www.github.com/genomic-medicine-sweden/Twist_Solid_pipeline_files/commit/8701129bc68b881c76a25164b955dee721dc88e4))
+* added hg38 files ([89da6bb](https://www.github.com/genomic-medicine-sweden/Twist_Solid_pipeline_files/commit/89da6bb4e2400fa102526360849cea4e74ff69c6))
+* adding missing hg38 files ([3e6e43a](https://www.github.com/genomic-medicine-sweden/Twist_Solid_pipeline_files/commit/3e6e43ad5d675e5280fe493cc6b168196055cb2c))
+* corrected design files ([4b14678](https://www.github.com/genomic-medicine-sweden/Twist_Solid_pipeline_files/commit/4b1467854c9fd74eb2a77d82a5e331dac17c9d6e))
+* new purecn and gatk interval file for hg38 ([c348bca](https://www.github.com/genomic-medicine-sweden/Twist_Solid_pipeline_files/commit/c348bcaf0d6607b4edeb456ae1aad5dfee1ea92c))
+
+
+### Bug Fixes
+
+* correct inteval file header ([e3ebeed](https://www.github.com/genomic-medicine-sweden/Twist_Solid_pipeline_files/commit/e3ebeed7e9cbbac8d1c0fe2a293de8811474a22c))
+* rm temp file ([b2af8d2](https://www.github.com/genomic-medicine-sweden/Twist_Solid_pipeline_files/commit/b2af8d2cc3b4eb0e71a8ca87a7040b9e3c9ad694))
+
 ### [0.4.1](https://www.github.com/genomic-medicine-sweden/Twist_Solid_pipeline_files/compare/v0.4.0...v0.4.1) (2023-11-29)
 
 

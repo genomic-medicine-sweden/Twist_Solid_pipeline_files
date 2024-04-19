@@ -1,5 +1,19 @@
 # Changelog
 
+## [0.6.0](https://www.github.com/genomic-medicine-sweden/Twist_Solid_pipeline_files/compare/v0.5.0...v0.6.0) (2024-04-19)
+
+
+### Features
+
+* added access file for cnv reference generation ([0d6ba2f](https://www.github.com/genomic-medicine-sweden/Twist_Solid_pipeline_files/commit/0d6ba2fbecde15364de2609269f1b12591ef64e0))
+* added chromosome arm size for new cnv table ([d51c53c](https://www.github.com/genomic-medicine-sweden/Twist_Solid_pipeline_files/commit/d51c53c483c9c7354f605673f40a562d8b10e175))
+* new cnv amp genes ([0808e58](https://www.github.com/genomic-medicine-sweden/Twist_Solid_pipeline_files/commit/0808e5892f3c459f442924e89a5468782e78720f))
+
+
+### Bug Fixes
+
+* Rename cnv_amp_genes_hg38_230307.bed to cnv_amp_genes_hg38_240307.bed ([400c194](https://www.github.com/genomic-medicine-sweden/Twist_Solid_pipeline_files/commit/400c1946c462690a9b5567493b14d742d8672ef1))
+
 ## [0.5.0](https://www.github.com/genomic-medicine-sweden/Twist_Solid_pipeline_files/compare/v0.4.1...v0.5.0) (2024-02-16)
 
 

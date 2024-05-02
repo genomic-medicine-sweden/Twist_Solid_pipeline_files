@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.7.0](https://www.github.com/genomic-medicine-sweden/Twist_Solid_pipeline_files/compare/v0.6.0...v0.7.0) (2024-05-02)
+
+
+### Features
+
+* files for filtering small deletions ([f5f47d4](https://www.github.com/genomic-medicine-sweden/Twist_Solid_pipeline_files/commit/f5f47d44d823d88925d75b41a0beaa2173114f34))
+
 ## [0.6.0](https://www.github.com/genomic-medicine-sweden/Twist_Solid_pipeline_files/compare/v0.5.0...v0.6.0) (2024-04-19)
 
 

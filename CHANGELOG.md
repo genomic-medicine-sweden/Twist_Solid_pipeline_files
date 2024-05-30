@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.8.0](https://www.github.com/genomic-medicine-sweden/Twist_Solid_pipeline_files/compare/v0.7.0...v0.8.0) (2024-05-30)
+
+
+### Features
+
+* added ENC hotspot file ([02c6c77](https://www.github.com/genomic-medicine-sweden/Twist_Solid_pipeline_files/commit/02c6c77905be99abb2f4e676b315a1b4a1f61ac8))
+* ENC hotspot file for hg38 ([27da72b](https://www.github.com/genomic-medicine-sweden/Twist_Solid_pipeline_files/commit/27da72b783bc442640e9a7cbd69c465a0f64a232))
+
 ## [0.7.0](https://www.github.com/genomic-medicine-sweden/Twist_Solid_pipeline_files/compare/v0.6.0...v0.7.0) (2024-05-02)
 
 

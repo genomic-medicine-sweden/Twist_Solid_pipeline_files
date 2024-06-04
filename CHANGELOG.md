@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.8.1](https://www.github.com/genomic-medicine-sweden/Twist_Solid_pipeline_files/compare/v0.8.0...v0.8.1) (2024-06-04)
+
+
+### Bug Fixes
+
+* updated ENC hotspot files ([869905d](https://www.github.com/genomic-medicine-sweden/Twist_Solid_pipeline_files/commit/869905dcc2bef1bdea604fd58cc58d5d52278b94))
+
 ## [0.8.0](https://www.github.com/genomic-medicine-sweden/Twist_Solid_pipeline_files/compare/v0.7.0...v0.8.0) (2024-05-30)
 
 

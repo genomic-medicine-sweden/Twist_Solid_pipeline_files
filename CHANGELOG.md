@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.9.0](https://www.github.com/genomic-medicine-sweden/Twist_Solid_pipeline_files/compare/v0.8.1...v0.9.0) (2024-06-12)
+
+
+### Features
+
+* added cytoband files for cnv report ([8ffbf3b](https://www.github.com/genomic-medicine-sweden/Twist_Solid_pipeline_files/commit/8ffbf3b307ec5cd9957ea664dab1ca2b397904c1))
+
 ### [0.8.1](https://www.github.com/genomic-medicine-sweden/Twist_Solid_pipeline_files/compare/v0.8.0...v0.8.1) (2024-06-04)
 
 

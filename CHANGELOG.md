@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.10.0](https://www.github.com/genomic-medicine-sweden/Twist_Solid_pipeline_files/compare/v0.9.0...v0.10.0) (2024-06-14)
+
+
+### Features
+
+* rm noisy MUC6 from cnv VAF plot ([4a36fdf](https://www.github.com/genomic-medicine-sweden/Twist_Solid_pipeline_files/commit/4a36fdfa56c62196cbfffb07dfb202c804334484))
+
 ## [0.9.0](https://www.github.com/genomic-medicine-sweden/Twist_Solid_pipeline_files/compare/v0.8.1...v0.9.0) (2024-06-12)
 
 

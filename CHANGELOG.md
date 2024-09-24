@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.11.0](https://www.github.com/genomic-medicine-sweden/Twist_Solid_pipeline_files/compare/v0.10.1...v0.11.0) (2024-09-24)
+
+
+### Features
+
+* added jumble annotation files ([139ced9](https://www.github.com/genomic-medicine-sweden/Twist_Solid_pipeline_files/commit/139ced961997e5a33b35005a5898f1e3565f8763))
+* added new filter column and new fusion gene ([8729896](https://www.github.com/genomic-medicine-sweden/Twist_Solid_pipeline_files/commit/87298962c39a8e3da2697b0d852058a3864fb9be))
+* added updated ENC hotspot files ([fea602c](https://www.github.com/genomic-medicine-sweden/Twist_Solid_pipeline_files/commit/fea602c373e9a9bad177447cbda9b3ea540e7820))
+
 ### [0.10.1](https://www.github.com/genomic-medicine-sweden/Twist_Solid_pipeline_files/compare/v0.10.0...v0.10.1) (2024-06-19)
 
 

@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.12.0](https://www.github.com/genomic-medicine-sweden/Twist_Solid_pipeline_files/compare/v0.11.0...v0.12.0) (2024-11-22)
+
+
+### Features
+
+* **msisensor_pro:** msi site filtering bedfile ([7891daf](https://www.github.com/genomic-medicine-sweden/Twist_Solid_pipeline_files/commit/7891dafc0b63c7640140932d3ceac66bb985da3d))
+
 ## [0.11.0](https://www.github.com/genomic-medicine-sweden/Twist_Solid_pipeline_files/compare/v0.10.1...v0.11.0) (2024-09-24)
 
 

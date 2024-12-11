@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.13.0](https://www.github.com/genomic-medicine-sweden/Twist_Solid_pipeline_files/compare/v0.12.0...v0.13.0) (2024-12-11)
+
+
+### Features
+
+* **juli:** JuLI fusion calling ref-files ([acded93](https://www.github.com/genomic-medicine-sweden/Twist_Solid_pipeline_files/commit/acded934f82499a811de0a3aab0171294cef6c62))
+
 ## [0.12.0](https://www.github.com/genomic-medicine-sweden/Twist_Solid_pipeline_files/compare/v0.11.0...v0.12.0) (2024-11-22)
 
 

@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.14.0](https://www.github.com/genomic-medicine-sweden/Twist_Solid_pipeline_files/compare/v0.13.0...v0.14.0) (2025-02-25)
+
+
+### Features
+
+* added MTAP to reported gene deletions ([fae853d](https://www.github.com/genomic-medicine-sweden/Twist_Solid_pipeline_files/commit/fae853d0cde5faaced83ed7f5df2c803f75ccd20))
+
 ## [0.13.0](https://www.github.com/genomic-medicine-sweden/Twist_Solid_pipeline_files/compare/v0.12.0...v0.13.0) (2024-12-11)
 
 

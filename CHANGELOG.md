@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.15.0](https://www.github.com/genomic-medicine-sweden/Twist_Solid_pipeline_files/compare/v0.14.0...v0.15.0) (2025-05-09)
+
+
+### Features
+
+* scanITD bed file ([4638548](https://www.github.com/genomic-medicine-sweden/Twist_Solid_pipeline_files/commit/46385480168bb223ce75b389c21cc91bf2ce3d78))
+
 ## [0.14.0](https://www.github.com/genomic-medicine-sweden/Twist_Solid_pipeline_files/compare/v0.13.0...v0.14.0) (2025-02-25)
 
 
